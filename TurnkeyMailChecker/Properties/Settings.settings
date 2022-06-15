@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TurnkeyMailChecker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mailServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mail.example.com</Value>
+    </Setting>
+    <Setting Name="mailUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">exampleUser</Value>
+    </Setting>
+    <Setting Name="mailUserPwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">examplePassword</Value>
+    </Setting>
+    <Setting Name="misMails" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MIS1,mis1@example.com;MIS2,mis1@example.com</Value>
+    </Setting>
+    <Setting Name="companyName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Example股份有限公司</Value>
+    </Setting>
+    <Setting Name="turnkeyMail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">peinvmgr@einvoice.nat.gov.tw</Value>
+    </Setting>
+    <Setting Name="inboxDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">inbox</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
